@@ -51,6 +51,51 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://sangsu-song-trend.link-hub.org/posts/gemini-coverage-20260719-0122.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sangsu-song-trend.link-hub.org/posts/gemini-coverage-20260719-0126.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sangsu-song-trend.link-hub.org/posts/qa-001-1f33ycx.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sangsu-song-trend.link-hub.org/posts.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sangsu-song-trend.link-hub.org/posts/juice-1.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sangsu-song-trend.link-hub.org/posts/juice-2.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sangsu-song-trend.link-hub.org/posts/normal-1.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sangsu-song-trend.link-hub.org/posts/normal-2.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sangsu-song-trend.link-hub.org/posts/normal-3.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://sangsu-song-trend.link-hub.org/posts/gemini-coverage-20260719-0117.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -76,11 +121,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sangsu-song-trend.link-hub.org/posts/gemini-coverage-20260719-0122.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://sangsu-song-trend.link-hub.org/posts/gemini-coverage-20260719-0123.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -92,11 +132,6 @@
   </url>
   <url>
     <loc>https://sangsu-song-trend.link-hub.org/posts/gemini-coverage-20260719-0125.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sangsu-song-trend.link-hub.org/posts/gemini-coverage-20260719-0126.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -172,46 +207,6 @@
   </url>
   <url>
     <loc>https://sangsu-song-trend.link-hub.org/posts/gemini-coverage-20260722-0022.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sangsu-song-trend.link-hub.org/posts/juice-1.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sangsu-song-trend.link-hub.org/posts/juice-2.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sangsu-song-trend.link-hub.org/posts/normal-1.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sangsu-song-trend.link-hub.org/posts/normal-2.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sangsu-song-trend.link-hub.org/posts/normal-3.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sangsu-song-trend.link-hub.org/posts/qa-001-1f33ycx.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sangsu-song-trend.link-hub.org/posts.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sangsu-song-trend.link-hub.org/posts-2.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
